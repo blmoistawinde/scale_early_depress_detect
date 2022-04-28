@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=2 python -u main_hier_clf.py --model_type bert-base-uncased --lr=2e-5 --input_dir ./processed/combined_maxsim16 --bs=4 --user_encoder=trans_abs --num_trans_layers=4

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -u main_hier_clf.py --model_type prajjwal1/bert-tiny --lr=2e-4 --input_dir ./split_filter_All-Mental-Health/depress_sim64 --bs=32 --user_encoder=trans_abs --num_trans_layers=4

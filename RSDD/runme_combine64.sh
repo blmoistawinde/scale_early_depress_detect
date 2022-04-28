@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python -u main_hier_clf.py --model_type prajjwal1/bert-tiny --lr=2e-4 --input_dir ./processed/combined_sim64 --bs=32 --user_encoder=trans_abs --num_trans_layers=4
