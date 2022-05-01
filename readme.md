@@ -1,6 +1,6 @@
 # Psychiatric Scale Guided Risky Post Screening for Early Detection of Depression
 
-This repo contains the experimental codes for the paper "Psychiatric Scale Guided Risky Post Screening for Early Detection of Depression". 
+This repo contains the experimental codes for the paper "Psychiatric Scale Guided Risky Post Screening for Early Detection of Depression". (IJCAI 2022 AI for Good). 
 
 [\[Paper\]](./paper.pdf) [\[Appendix\]](./appendix.pdf)
 
