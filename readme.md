@@ -2,6 +2,8 @@
 
 This repo contains the experimental codes for the paper "Psychiatric Scale Guided Risky Post Screening for Early Detection of Depression". 
 
+[\[Paper\]](./paper.pdf) [\[Appendix\]](./appendix.pdf)
+
 The 3 folders contains the code for each dataset. Detailed information an be seen in the `readme` inside the directories. 
 
 The main experiments are conducted on `erisk2017` dataset, while we also test the generalizability of the proposed model on the other 2 datasets (See Appendix).
