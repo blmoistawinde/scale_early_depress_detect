@@ -17,3 +17,9 @@ Other files:
 - cluster_summary.py: utilities for K-Means clustering (Clus)
 - make_abs_summary.py: produce abstractive summarization for (Clus+Abs)
 - LIWC_ana.ipynb: lexical analysis with LIWC
+
+About our organization of data:
+
+X_anonymous contains the training data and X_test contains the test data, where X=positive/negative means users with/without depression。
+
+Each directory contains XML files, and each file contains the posting history of a user.
